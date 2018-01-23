@@ -1,0 +1,93 @@
+	/*background do footer*/
+.bg-footer{
+	background-color:#A9E2F3;
+	padding: 13px;
+}
+
+	/*centralizar os icones de rede social*/
+.center{
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+	/* Mudar ofundo do menu*/
+.bg-menu{
+	background: #214558;
+}
+
+	/*Titulo do painel que faz: muda cor , letra e centraliza*/
+.panel-heading-cor{
+	background: #214559;
+	text-align: center;
+	color: #000000;
+}
+
+/*h2[name="Administracao"]:hover{
+	color: #515574;
+	background: #E0FFFF;
+}*/
+
+
+/*input[type="text"] {
+	width: 200px;
+}*/
+	/*Titulo do painel que faz: muda cor , letra */
+.panel-body-cor{
+	background: #FFF;
+	color: #000000;
+}
+
+.title-h2{
+	text-align: center;
+	color: #000000;
+}
+
+
+.title-h2:hover{
+	text-align: center;
+	color: #302487;
+}
+
+
+.tamanho-img-carroseu{
+	width: 45%;
+	margin: auto;
+}
+.fundo-pagina-principal{
+	color: #FFF;
+	background-color: #568;
+}
+
+.cor-preto{
+	color: #000;
+}
+
+
+
+/*.scrollup_fade {
+    background:url(img/scroll.png) no-repeat ;
+    opacity:0.3;
+    width:40px;
+    height:40px;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    display:none;
+    -webkit-transition:.150s;
+    transition:.150s;
+}*/
+
+.voltar{
+	text-decoration: none;
+	color: #000;
+	background-color: #228655;
+	border-radius: 20px;
+	padding:5px;
+	font-size: 22px;
+}
+.voltar:hover{
+	text-decoration: none;
+	color: #052207;
+}
+
